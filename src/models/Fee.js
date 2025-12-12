@@ -18,6 +18,6 @@ export class Fee extends Movement {
   }
 
   getTypeName() {
-    return 'Comisión';
+    return 'Comision';
   }
 }

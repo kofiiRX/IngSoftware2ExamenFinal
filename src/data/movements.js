@@ -56,5 +56,12 @@ export const movementsData = [
     description: 'Retiro para gastos personales',
     amount: 100.00,
     date: '2025-12-08'
+  },
+  {
+    id: 9,
+    type: 'fee',
+    description: 'Comision por mantenimiento de cuenta',
+    amount: 35.00,
+    date: '2025-12-09'
   }
 ];
